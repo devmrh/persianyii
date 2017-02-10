@@ -16,7 +16,7 @@ php composer.phar require --prefer-dist yiipersian/yii2-rss "dev-master"
 or add
 
 ```
-"yiipersian/yii2-rss": "*"
+"yiipersian/yii2-rss": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
