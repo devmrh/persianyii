@@ -1,0 +1,21 @@
+{
+    "name": "yiipersian/yii2-rss",
+    "description": "create rss frame work with array ann db",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","rss"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "mohammadreza",
+            "email": "ultra2mh@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "persianyii\\rss\\": ""
+        }
+    }
+}
